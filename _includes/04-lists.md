@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# here's a list of my favorite things:
+- long walks
+- deep documentaries 
+- red wine
+- quiet dogs
